@@ -1,0 +1,137 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.bagussubagja.flutter_liveness_detection_randomized_plugin.flutter_liveness_detection_randomized_plugin",
+    "module": "flutter_liveness_detection_randomized_plugin_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_liveness_detection_randomized_plugin_release-1.0.aar",
+          "url": "flutter_liveness_detection_randomized_plugin_release-1.0.aar",
+          "size": 2694,
+          "sha512": "e707e2c2b458b77e3bf62599fe4f01440c90c9460a0d8cbe210fac39da85102318157ae2daa1587546ac779fca3176b5cfb3e81e176b97073a287457f2801b51",
+          "sha256": "f5ad7b58dcb7e232a5228e3445c3baad280b7627af65cb9f74295188b1af83cc",
+          "sha1": "6719c08ac2dc36b34a669da91927ad931447512c",
+          "md5": "d4b3f294270b73068a3eb10c6b656bcf"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+          }
+        },
+        {
+          "group": "com.google_mlkit_face_detection",
+          "module": "google_mlkit_face_detection_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_liveness_detection_randomized_plugin_release-1.0.aar",
+          "url": "flutter_liveness_detection_randomized_plugin_release-1.0.aar",
+          "size": 2694,
+          "sha512": "e707e2c2b458b77e3bf62599fe4f01440c90c9460a0d8cbe210fac39da85102318157ae2daa1587546ac779fca3176b5cfb3e81e176b97073a287457f2801b51",
+          "sha256": "f5ad7b58dcb7e232a5228e3445c3baad280b7627af65cb9f74295188b1af83cc",
+          "sha1": "6719c08ac2dc36b34a669da91927ad931447512c",
+          "md5": "d4b3f294270b73068a3eb10c6b656bcf"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_liveness_detection_randomized_plugin_release-1.0-sources.jar",
+          "url": "flutter_liveness_detection_randomized_plugin_release-1.0-sources.jar",
+          "size": 1882,
+          "sha512": "c9ed259360277a641b06725975b57feb67d6b543c7188a645f8fda4de3a354b4c73addd2ab7a04e09975d10434fb548eacd26e9bed735ff743dd596ea09e6f85",
+          "sha256": "6879def171989bfa001b27789c573ec28fde58039202343674f867a8a827b7e1",
+          "sha1": "4a6ef6caefdd111935f865ee9088ccff91bac5ed",
+          "md5": "e73afd84dbdc69968031953f48a0329a"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_liveness_detection_randomized_plugin_release-1.0-javadoc.jar",
+          "url": "flutter_liveness_detection_randomized_plugin_release-1.0-javadoc.jar",
+          "size": 261,
+          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
+          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
+          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
+          "md5": "f43436d6bec321290f6af228ad602604"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.endigo.plugins.pdfview",
+    "module": "flutter_pdfview_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_pdfview_release-1.0.aar",
+          "url": "flutter_pdfview_release-1.0.aar",
+          "size": 11758,
+          "sha512": "04546d83cc005d81c6fb1bb7c93e76660e1b33a9cf84a581839a1d841bfbce90f168eae0c3c4c724697f21a3df91232d58ba8af0f73d66154d451c18302f8899",
+          "sha256": "f0fb8dc858c5e09c0c8bd3dcbfae34146fa8e5981a53db7ac1dd0ce923baf251",
+          "sha1": "e836f4463d7a0ad12aa9b5d448e208a3c88443b6",
+          "md5": "f8e1594780cea61d5f0f7580c331cf78"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+          }
+        },
+        {
+          "group": "io.github.oothp",
+          "module": "android-pdf-viewer",
+          "version": {
+            "requires": "3.2.0-beta05"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_pdfview_release-1.0.aar",
+          "url": "flutter_pdfview_release-1.0.aar",
+          "size": 11758,
+          "sha512": "04546d83cc005d81c6fb1bb7c93e76660e1b33a9cf84a581839a1d841bfbce90f168eae0c3c4c724697f21a3df91232d58ba8af0f73d66154d451c18302f8899",
+          "sha256": "f0fb8dc858c5e09c0c8bd3dcbfae34146fa8e5981a53db7ac1dd0ce923baf251",
+          "sha1": "e836f4463d7a0ad12aa9b5d448e208a3c88443b6",
+          "md5": "f8e1594780cea61d5f0f7580c331cf78"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_pdfview_release-1.0-sources.jar",
+          "url": "flutter_pdfview_release-1.0-sources.jar",
+          "size": 4874,
+          "sha512": "6d80217e6a8ba47471c277df842266c12ff7e44be8a1a9bcd2edabdc89df931baf8be4075c0a8be514a1f3ba141562d0af37306696267de9409725f381b03aa6",
+          "sha256": "0d24473f2119e432b9bbb826fea9cf8271fe3233ce187e572801c5056afc24d9",
+          "sha1": "65ee14461f574989ba5ad63def8a012239b13c09",
+          "md5": "71affd31bb2a83b00885cec4ff00d2d6"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_pdfview_release-1.0-javadoc.jar",
+          "url": "flutter_pdfview_release-1.0-javadoc.jar",
+          "size": 261,
+          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
+          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
+          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
+          "md5": "f43436d6bec321290f6af228ad602604"
+        }
+      ]
+    }
+  ]
+}

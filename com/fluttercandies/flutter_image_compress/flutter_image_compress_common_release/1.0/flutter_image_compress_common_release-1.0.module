@@ -1,0 +1,151 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.fluttercandies.flutter_image_compress",
+    "module": "flutter_image_compress_common_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_image_compress_common_release-1.0.aar",
+          "url": "flutter_image_compress_common_release-1.0.aar",
+          "size": 30381,
+          "sha512": "09784f8ec0de1c50ac3c8d9c6a5bb9761c655ff6283f54d0a823a7047ba6abc33d4fe94650aedac3b3208c9cae476fe385f063a33e7e04037f075d40c4677cd7",
+          "sha256": "31f1aa3540fe3d880916b8af20536b9aa8cafdc698bf8b4534e9cfc4fcb8a9cb",
+          "sha1": "5f3558b6ea03d72339b00b82650d3ee521333da5",
+          "md5": "e7f217bcc03ee9cc1b011fc0cda19fcc"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+          }
+        },
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.3.3"
+          }
+        },
+        {
+          "group": "androidx.heifwriter",
+          "module": "heifwriter",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.6"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_image_compress_common_release-1.0.aar",
+          "url": "flutter_image_compress_common_release-1.0.aar",
+          "size": 30381,
+          "sha512": "09784f8ec0de1c50ac3c8d9c6a5bb9761c655ff6283f54d0a823a7047ba6abc33d4fe94650aedac3b3208c9cae476fe385f063a33e7e04037f075d40c4677cd7",
+          "sha256": "31f1aa3540fe3d880916b8af20536b9aa8cafdc698bf8b4534e9cfc4fcb8a9cb",
+          "sha1": "5f3558b6ea03d72339b00b82650d3ee521333da5",
+          "md5": "e7f217bcc03ee9cc1b011fc0cda19fcc"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_image_compress_common_release-1.0-sources.jar",
+          "url": "flutter_image_compress_common_release-1.0-sources.jar",
+          "size": 13283,
+          "sha512": "9d463a80c9f9155d36af415dfbc87fadb7908f534f56929f46ded2280cbd3951f90518b08d83de17af9eab1bb66723f65b386d3d4df8b2a57dc67105fc8cad56",
+          "sha256": "93a28e5f9b7fcb467c45057e584caa01f1eb412c0b4a92b23a49dc0100b4af37",
+          "sha1": "8f0422fa7a12db6f03202df46f11b2c7ec84061a",
+          "md5": "326cceeddeb7bc0e1af417bf6b15811f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_image_compress_common_release-1.0-javadoc.jar",
+          "url": "flutter_image_compress_common_release-1.0-javadoc.jar",
+          "size": 261,
+          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
+          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
+          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
+          "md5": "f43436d6bec321290f6af228ad602604"
+        }
+      ]
+    }
+  ]
+}

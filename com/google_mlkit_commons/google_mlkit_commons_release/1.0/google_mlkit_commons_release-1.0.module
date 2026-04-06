@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.google_mlkit_commons",
+    "module": "google_mlkit_commons_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_mlkit_commons_release-1.0.aar",
+          "url": "google_mlkit_commons_release-1.0.aar",
+          "size": 10437,
+          "sha512": "dee0e6760bba5ee4e08cc9c6cc31b9e8bbf7c3924dfc79973bca579e06d9ef556558edc15899598e585391b0eed9afa9c1cfa5b95e789ba528ef32e4ea932613",
+          "sha256": "a542a71368fbba3209b502b7db74c989d6e24814d5f83ef52d856a6f9c611231",
+          "sha1": "2fdaa2efba8c19f592b7d47641719a5a7bfe1b8f",
+          "md5": "32da26cd132b927de2783acf804b3b8c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+          }
+        },
+        {
+          "group": "com.google.mlkit",
+          "module": "vision-common",
+          "version": {
+            "requires": "17.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_mlkit_commons_release-1.0.aar",
+          "url": "google_mlkit_commons_release-1.0.aar",
+          "size": 10437,
+          "sha512": "dee0e6760bba5ee4e08cc9c6cc31b9e8bbf7c3924dfc79973bca579e06d9ef556558edc15899598e585391b0eed9afa9c1cfa5b95e789ba528ef32e4ea932613",
+          "sha256": "a542a71368fbba3209b502b7db74c989d6e24814d5f83ef52d856a6f9c611231",
+          "sha1": "2fdaa2efba8c19f592b7d47641719a5a7bfe1b8f",
+          "md5": "32da26cd132b927de2783acf804b3b8c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_mlkit_commons_release-1.0-sources.jar",
+          "url": "google_mlkit_commons_release-1.0-sources.jar",
+          "size": 3893,
+          "sha512": "a9c817d4383cd1bf53c4babfc97297192dd17417126329051874bcfdaa354a8c3f493306d4dab79ee4aaaa1f9b9d29266756b4aa5f7e75f7d3f229ed7da7c244",
+          "sha256": "212b2ff21a24b11c4b34d87730b9a3070b0fc85e3db3836c98b063cecb74c9cc",
+          "sha1": "390f524d1f225b42bd9497722fd72e4191efdf59",
+          "md5": "d4654ea48eb76808d75ca50a55283c85"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_mlkit_commons_release-1.0-javadoc.jar",
+          "url": "google_mlkit_commons_release-1.0-javadoc.jar",
+          "size": 261,
+          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
+          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
+          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
+          "md5": "f43436d6bec321290f6af228ad602604"
+        }
+      ]
+    }
+  ]
+}
