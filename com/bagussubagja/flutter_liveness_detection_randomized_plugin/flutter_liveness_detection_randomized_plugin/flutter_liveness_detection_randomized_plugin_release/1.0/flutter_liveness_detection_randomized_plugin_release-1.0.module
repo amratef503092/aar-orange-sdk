@@ -34,7 +34,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20"
+            "requires": "1.9.25"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "flutter_liveness_detection_randomized_plugin_release-1.0.aar",
           "url": "flutter_liveness_detection_randomized_plugin_release-1.0.aar",
-          "size": 2694,
-          "sha512": "e707e2c2b458b77e3bf62599fe4f01440c90c9460a0d8cbe210fac39da85102318157ae2daa1587546ac779fca3176b5cfb3e81e176b97073a287457f2801b51",
-          "sha256": "f5ad7b58dcb7e232a5228e3445c3baad280b7627af65cb9f74295188b1af83cc",
-          "sha1": "6719c08ac2dc36b34a669da91927ad931447512c",
-          "md5": "d4b3f294270b73068a3eb10c6b656bcf"
+          "size": 2691,
+          "sha512": "3a8b7bc475b1a823048c5b44f6959046eefa0155f97ed3ecca8333d0d72a02f8a987a98a2544bc668f0ad483f81fc1769724e9d203843b5f99bb7ed2ce702700",
+          "sha256": "7b55a4080460018d2f331ad0797ea9ed05ca3fe61334cd4f522cfaf3730f1792",
+          "sha1": "e68a9e604b471a93066e2feec37ddb5d57823d5c",
+          "md5": "9ec92ee65332cb9c1a539ae9c2474591"
         }
       ]
     },
@@ -77,7 +77,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20"
+            "requires": "1.9.25"
           }
         }
       ],
@@ -85,11 +85,11 @@
         {
           "name": "flutter_liveness_detection_randomized_plugin_release-1.0.aar",
           "url": "flutter_liveness_detection_randomized_plugin_release-1.0.aar",
-          "size": 2694,
-          "sha512": "e707e2c2b458b77e3bf62599fe4f01440c90c9460a0d8cbe210fac39da85102318157ae2daa1587546ac779fca3176b5cfb3e81e176b97073a287457f2801b51",
-          "sha256": "f5ad7b58dcb7e232a5228e3445c3baad280b7627af65cb9f74295188b1af83cc",
-          "sha1": "6719c08ac2dc36b34a669da91927ad931447512c",
-          "md5": "d4b3f294270b73068a3eb10c6b656bcf"
+          "size": 2691,
+          "sha512": "3a8b7bc475b1a823048c5b44f6959046eefa0155f97ed3ecca8333d0d72a02f8a987a98a2544bc668f0ad483f81fc1769724e9d203843b5f99bb7ed2ce702700",
+          "sha256": "7b55a4080460018d2f331ad0797ea9ed05ca3fe61334cd4f522cfaf3730f1792",
+          "sha1": "e68a9e604b471a93066e2feec37ddb5d57823d5c",
+          "md5": "9ec92ee65332cb9c1a539ae9c2474591"
         }
       ]
     },
