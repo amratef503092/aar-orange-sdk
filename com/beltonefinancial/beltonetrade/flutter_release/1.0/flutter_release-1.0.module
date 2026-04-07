@@ -27,28 +27,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_release",
           "version": {
-            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_release",
           "version": {
-            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_release",
           "version": {
-            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
           }
         },
         {
@@ -224,28 +224,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_release",
           "version": {
-            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_release",
           "version": {
-            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_release",
           "version": {
-            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
+            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
           }
         },
         {
