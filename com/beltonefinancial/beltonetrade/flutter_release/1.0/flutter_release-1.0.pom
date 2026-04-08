@@ -115,12 +115,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>br.com.yanncabral.open_settings_plus</groupId>
-      <artifactId>open_settings_plus_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>io.flutter.plugins.pathprovider</groupId>
       <artifactId>path_provider_android_release</artifactId>
       <version>1.0</version>

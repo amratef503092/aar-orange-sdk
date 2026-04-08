@@ -35,11 +35,11 @@
         {
           "name": "url_launcher_android_release-1.0.aar",
           "url": "url_launcher_android_release-1.0.aar",
-          "size": 22347,
-          "sha512": "2592a017c91044cfe304197eb7456059fdc55eb927a218350e1b16c001435e2c5191f2b6b8f57896f96f4e43284b04ae2aecf08280afb0ea90082e07f85676e1",
-          "sha256": "da7747d26df3e0dbae60c1f602e2d681ba9892f0e14e3b59a2f66227cb3aa4d1",
-          "sha1": "10d1ed884f40aceec08ca78f349321244ca1892d",
-          "md5": "196428c8b322e444621bfcc562afce2d"
+          "size": 22530,
+          "sha512": "e55bf9629261b14ca1c4648eb7916008967d9a0583fa2cde1eafdfdceee6f69d208d9e02d4f4607590bf58c4576e1dbc9fcca004c7aa594983878103aa1b3ce8",
+          "sha256": "b6584332cfeb30b4d57a4638d3956287f729daf1849eadb2cbb23a8f879e14cb",
+          "sha1": "ed2bee61363a632001b1357592642a6418752e63",
+          "md5": "89d6e9e04c821c3bc1864644463d8fb6"
         }
       ]
     },
@@ -63,7 +63,7 @@
           "group": "androidx.core",
           "module": "core",
           "version": {
-            "requires": "1.17.0"
+            "requires": "1.13.1"
           }
         },
         {
@@ -77,7 +77,7 @@
           "group": "androidx.browser",
           "module": "browser",
           "version": {
-            "requires": "1.9.0"
+            "requires": "1.8.0"
           }
         }
       ],
@@ -85,11 +85,11 @@
         {
           "name": "url_launcher_android_release-1.0.aar",
           "url": "url_launcher_android_release-1.0.aar",
-          "size": 22347,
-          "sha512": "2592a017c91044cfe304197eb7456059fdc55eb927a218350e1b16c001435e2c5191f2b6b8f57896f96f4e43284b04ae2aecf08280afb0ea90082e07f85676e1",
-          "sha256": "da7747d26df3e0dbae60c1f602e2d681ba9892f0e14e3b59a2f66227cb3aa4d1",
-          "sha1": "10d1ed884f40aceec08ca78f349321244ca1892d",
-          "md5": "196428c8b322e444621bfcc562afce2d"
+          "size": 22530,
+          "sha512": "e55bf9629261b14ca1c4648eb7916008967d9a0583fa2cde1eafdfdceee6f69d208d9e02d4f4607590bf58c4576e1dbc9fcca004c7aa594983878103aa1b3ce8",
+          "sha256": "b6584332cfeb30b4d57a4638d3956287f729daf1849eadb2cbb23a8f879e14cb",
+          "sha1": "ed2bee61363a632001b1357592642a6418752e63",
+          "md5": "89d6e9e04c821c3bc1864644463d8fb6"
         }
       ]
     },
@@ -105,11 +105,11 @@
         {
           "name": "url_launcher_android_release-1.0-sources.jar",
           "url": "url_launcher_android_release-1.0-sources.jar",
-          "size": 9227,
-          "sha512": "6a116427335fbb2716d36d5590d9046384a0bc1a75c9c22458dc70fc409807521f8e1904ff65b615603fcfe0fd3a6b64c4ffc7cc128aba8dc9e40631237f34e2",
-          "sha256": "1fc5592cdb33c6d6c90ba24734b08a4d6c3b20fb83750f1c6031862257784fc4",
-          "sha1": "973ed27074667cd81d554b1cd24671947e7bca67",
-          "md5": "0722ddd0c419ee88d29b7ab1353c854d"
+          "size": 9404,
+          "sha512": "5ac088da042502a3f5c39f955abf092c6ed490da35464d60eef45dfe1262eaa3143a53d77fbc218d037582b780c5421fdaf8847482847de8b1bffa8ceaf3468e",
+          "sha256": "fc09a1ed942bde1578570cc2f2198e7e9b51c87bfa35bb88eb9343b3fc7d83c3",
+          "sha1": "7a87e8d621aa50c862331ee6827305b6c76c57fd",
+          "md5": "1266bbfa8f2588435497db7b9ffe2c0d"
         }
       ]
     },

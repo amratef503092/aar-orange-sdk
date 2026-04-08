@@ -35,11 +35,11 @@
         {
           "name": "image_picker_android_release-1.0.aar",
           "url": "image_picker_android_release-1.0.aar",
-          "size": 69803,
-          "sha512": "e512bd01ee3938942bd831f5fac6e867a28e0f68a156a055b57888e1706fa72a0b7a44f6f3aa8a5f0cd92832af1bdcb6f92727210191409fd55683cc62f30d59",
-          "sha256": "e2f868aed5f2c4840bfc434190bb0775f1e0c608baf6d0459875329024b5817e",
-          "sha1": "8c96fed2c13441a89cd94d6c90b5fdad9bc21d73",
-          "md5": "3a68b5a665bc3ad31ade254fb6f6cf89"
+          "size": 69583,
+          "sha512": "a0f145c420ad0e41a111d92cb9b153df86b03e9b72e0befa8105fb38101f9b9ca4f8146a8c2ea0b0eeb29c918eef7c0cb1d2a5a7055c11f294e882d7eff0d9b5",
+          "sha256": "df1ea1e674bae6b21c56aee6ef3193c72b2d18b9b4b2bb6fba3b1e730ff64268",
+          "sha1": "0afad8808622e481d506a4aa327f994a0728e325",
+          "md5": "18af53fa04a647a63285ac2537bed3f3"
         }
       ]
     },
@@ -63,7 +63,7 @@
           "group": "androidx.core",
           "module": "core",
           "version": {
-            "requires": "1.17.0"
+            "requires": "1.13.1"
           }
         },
         {
@@ -77,14 +77,14 @@
           "group": "androidx.exifinterface",
           "module": "exifinterface",
           "version": {
-            "requires": "1.4.2"
+            "requires": "1.3.7"
           }
         },
         {
           "group": "androidx.activity",
           "module": "activity",
           "version": {
-            "requires": "1.12.4"
+            "requires": "1.9.3"
           }
         },
         {
@@ -99,11 +99,11 @@
         {
           "name": "image_picker_android_release-1.0.aar",
           "url": "image_picker_android_release-1.0.aar",
-          "size": 69803,
-          "sha512": "e512bd01ee3938942bd831f5fac6e867a28e0f68a156a055b57888e1706fa72a0b7a44f6f3aa8a5f0cd92832af1bdcb6f92727210191409fd55683cc62f30d59",
-          "sha256": "e2f868aed5f2c4840bfc434190bb0775f1e0c608baf6d0459875329024b5817e",
-          "sha1": "8c96fed2c13441a89cd94d6c90b5fdad9bc21d73",
-          "md5": "3a68b5a665bc3ad31ade254fb6f6cf89"
+          "size": 69583,
+          "sha512": "a0f145c420ad0e41a111d92cb9b153df86b03e9b72e0befa8105fb38101f9b9ca4f8146a8c2ea0b0eeb29c918eef7c0cb1d2a5a7055c11f294e882d7eff0d9b5",
+          "sha256": "df1ea1e674bae6b21c56aee6ef3193c72b2d18b9b4b2bb6fba3b1e730ff64268",
+          "sha1": "0afad8808622e481d506a4aa327f994a0728e325",
+          "md5": "18af53fa04a647a63285ac2537bed3f3"
         }
       ]
     },
@@ -119,11 +119,11 @@
         {
           "name": "image_picker_android_release-1.0-sources.jar",
           "url": "image_picker_android_release-1.0-sources.jar",
-          "size": 26588,
-          "sha512": "964e4ee3747874d7ec0e6046ff5186e6238290e41f3e5aecfd1c7e87c3b2143f57ce7bb64b8b3235c02f6876ef5c8e99874050bfc1c9d2c364988b1deb02d450",
-          "sha256": "0dc986023c445e827cf3fff727d4540ca879f699cf07e7caa593d9f30210b40b",
-          "sha1": "bd666d009c2d083a00755525ae8e92c3adc13ff4",
-          "md5": "c36bb10dbbc7e6ce6c008b12cee85273"
+          "size": 26716,
+          "sha512": "f140da762265150c64a4187e1b9adf969983e4b5d570210038ce434cb03e8e5ac8bdf729a3c4a52ed13cbfe381cf7eb50633e319ceb5028ec2a8493ac351c98d",
+          "sha256": "712d1dfa112f9ee2799f7439cb827e066271d66acb679fa4afea122863deb43e",
+          "sha1": "a5e6fa92877cc6479365167e9891b9b9cc1a67ec",
+          "md5": "60bb9390cb7e6ebab4e666e1d9d87b06"
         }
       ]
     },

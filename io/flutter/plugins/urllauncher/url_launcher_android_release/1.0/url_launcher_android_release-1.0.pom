@@ -21,7 +21,7 @@
     <dependency>
       <groupId>androidx.core</groupId>
       <artifactId>core</artifactId>
-      <version>1.17.0</version>
+      <version>1.13.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -33,7 +33,7 @@
     <dependency>
       <groupId>androidx.browser</groupId>
       <artifactId>browser</artifactId>
-      <version>1.9.0</version>
+      <version>1.8.0</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
