@@ -73,12 +73,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.endigo.plugins.pdfview</groupId>
-      <artifactId>flutter_pdfview_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
       <artifactId>flutter_plugin_android_lifecycle_release</artifactId>
       <version>1.0</version>

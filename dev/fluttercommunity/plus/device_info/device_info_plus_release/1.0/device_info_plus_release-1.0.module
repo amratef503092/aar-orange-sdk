@@ -35,11 +35,11 @@
         {
           "name": "device_info_plus_release-1.0.aar",
           "url": "device_info_plus_release-1.0.aar",
-          "size": 7614,
-          "sha512": "65c899458c66c5e1bc1686542b4e7f71f25c97b4de3157c548f9d88622192f34ae66cbd4432465c692b356bfd23e15128a30fa3c3f01efceb1df030edaf1d541",
-          "sha256": "9c4a51ba670c0616cfa478351df1d6f91dd387a81f5f5511054703b2efe77d3b",
-          "sha1": "f52f4dbc4a3cd49d2f6b9e5d7e41eb0062291589",
-          "md5": "bb89cef59567de66c13039823ee38e75"
+          "size": 7483,
+          "sha512": "e041d8fb905cc2555d7f81ef5bb8e42cc5a956d213e2b838d7eb62734312125ade7e4d4a3940979839ef09f92b2975564c99f9bc30cacf66da0a34b19c47ec10",
+          "sha256": "1269d3a3cdf49264f5b0fd9a342fb3c6f38b04577f08039efff84d6e4d316781",
+          "sha1": "1efcb733f0d13feedce800d9ef0271d546b29ca4",
+          "md5": "4d27c545d045ab401cbff5424598d9f9"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "device_info_plus_release-1.0.aar",
           "url": "device_info_plus_release-1.0.aar",
-          "size": 7614,
-          "sha512": "65c899458c66c5e1bc1686542b4e7f71f25c97b4de3157c548f9d88622192f34ae66cbd4432465c692b356bfd23e15128a30fa3c3f01efceb1df030edaf1d541",
-          "sha256": "9c4a51ba670c0616cfa478351df1d6f91dd387a81f5f5511054703b2efe77d3b",
-          "sha1": "f52f4dbc4a3cd49d2f6b9e5d7e41eb0062291589",
-          "md5": "bb89cef59567de66c13039823ee38e75"
+          "size": 7483,
+          "sha512": "e041d8fb905cc2555d7f81ef5bb8e42cc5a956d213e2b838d7eb62734312125ade7e4d4a3940979839ef09f92b2975564c99f9bc30cacf66da0a34b19c47ec10",
+          "sha256": "1269d3a3cdf49264f5b0fd9a342fb3c6f38b04577f08039efff84d6e4d316781",
+          "sha1": "1efcb733f0d13feedce800d9ef0271d546b29ca4",
+          "md5": "4d27c545d045ab401cbff5424598d9f9"
         }
       ]
     },
