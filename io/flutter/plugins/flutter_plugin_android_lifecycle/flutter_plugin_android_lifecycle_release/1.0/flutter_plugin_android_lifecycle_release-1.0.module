@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
           }
         }
       ],
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-13e658725ddaa270601426d1485636157e38c34c"
+            "requires": "1.0.0-1527ae0ec577a4ef50e65f6fefcfc1326707d9bf"
           }
         },
         {
